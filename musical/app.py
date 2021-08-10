@@ -84,9 +84,9 @@ def print_cartones(cantidad):
 
         html_code += "<h2>Cartón nro: %s</h2> <table> " % (str(n_carton).zfill(2))
 
-        nros = np.random.choice(range(1,q), 15, replace=False)
-        pos = np.random.choice(range(0,28), 15, replace=False)
-
+        nros = list(np.random.choice(range(1,q), 15, replace=False))
+        pos = list(np.random.choice(range(0,27), 15, replace=False))
+        cartones[n_carton] = nros
         n_pos = 0
         for f in range(1,4):
             html_code += "<tr>"
@@ -110,7 +110,6 @@ def print_cartones(cantidad):
 
         nombre_carton = "./cartones/musical_{}.pdf".format(n_carton)
         pdfkit.from_string(html_code, nombre_carton, options=options)
-        cartones[n_carton] = nros
         n_carton += 1
     return cartones
 
@@ -124,8 +123,8 @@ def check_duplicados(cartones):
             if nros == check:
                 n += 1
         if n > 1:
-            repetidos.append(nros)
+            repetidos.append((x,y))
     return repetidos
 
-cartones = print_cartones(10)
+cartones = print_cartones(5)
 print(check_duplicados(cartones))
