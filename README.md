@@ -1,5 +1,5 @@
 # mag-Bingo 📝
-hola
+
 Tablero numérico para control de cartones tradicionales y sistema de bingo musical: armado de cartones, integración con Spotify y planilla de control para stream.
 
 ## Requerimientos
