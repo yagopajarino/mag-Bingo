@@ -34,7 +34,7 @@ html_code = """
         body {
             text-align:center;
             font-family:Arial;
-            color: red;
+            color: #c603fc;
         }
 
         table {
@@ -51,16 +51,32 @@ html_code = """
         }
 
         .empty {
-            background-color: red;
+            background-color: #c603fc;
         }
 
         .filled {
             text-align:center;
             font-weight: 200;
         }
+
+        p{
+            padding-top: 20px;
+        }
+
+        a {
+            text-decoration:none;
+        }
+
+        .footer {
+            position:absolute;
+            bottom:0;
+            width:100%;
+            text-align:center;
+        }
     </style>
     <body>
         <h1>Bingo musical MAG</h1>
+        <h2>Cartón nro: 00</h2>
         <table>
 """
 
@@ -82,6 +98,8 @@ for f in range(1,4):
 
 html_code += """    
 </table>
+<p>Accedé a la playlist en <a href="https://open.spotify.com/playlist/6kSIoB0kOUq5QQS3acx4ud?si=279be6ec23be4bb7">Spotify</a></p>
+<p class="footer">Made with ❤️ by <a href="https://github.com/yagopajarino/mag-Bingo">yagopajarino</a></p>
 </body>
 </html>
 """
