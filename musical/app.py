@@ -39,7 +39,7 @@ def print_cartones(cantidad):
                 body {
                     text-align:center;
                     font-family:Arial;
-                    color: #c603fc;
+                    color: #cf34eb;
                 }
 
                 table {
@@ -56,7 +56,7 @@ def print_cartones(cantidad):
                 }
 
                 .empty {
-                    background-color: #c603fc;
+                    background-color: #cf34eb;
                 }
 
                 .filled {
@@ -82,7 +82,7 @@ def print_cartones(cantidad):
             <body>
                 <h1>Bingo musical MAG</h1>"""
 
-        html_code += "<h2>Cartón nro: %s</h2> <table> " % (str(n_carton).zfill(2))
+        html_code += "<h2>Cartón nro: %s</h2> <table> " % (str(n_carton).zfill(3))
 
         nros = list(np.random.choice(range(1,q), 15, replace=False))
         pos = list(np.random.choice(range(0,27), 15, replace=False))
@@ -108,7 +108,7 @@ def print_cartones(cantidad):
         </html>
         """
 
-        nombre_carton = "./cartones/musical_{}.pdf".format(n_carton)
+        nombre_carton = "./cartones/musical_{}.pdf".format(str(n_carton).zfill(3))
         pdfkit.from_string(html_code, nombre_carton, options=options)
         n_carton += 1
     return cartones
@@ -126,5 +126,6 @@ def check_duplicados(cartones):
             repetidos.append((x,y))
     return repetidos
 
-cartones = print_cartones(5)
+cant = int(input("Nro de cartones: "))
+cartones = print_cartones(cant)
 print(check_duplicados(cartones))
