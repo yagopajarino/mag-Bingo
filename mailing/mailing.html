@@ -1,20 +1,23 @@
 <!DOCTYPE html>
 <html>
     <style>
-        body {
-        display: flex;
-        flex-direction: column;
-        align-items: stretch;
+    body {
         width: 100%;
         max-width: 600px;
         margin: 0;
         font-family: 'Verdana', sans-serif;
     }
 
-    .header, .footer{
-        display: flex;
+    table {
+        width: 100%;
+    }
+
+    td {
+        text-align: center;
         align-items: center;
-        justify-content: space-around;
+    }
+
+    .header, .footer{
         padding: 20px 0 20px 0;
         background-color: #EDEDED;
     }
@@ -32,9 +35,6 @@
     }
 
     .main-cont {
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start;
         padding: 30px;
     }
 
@@ -45,8 +45,16 @@
     </style>
     <body>
         <div class="header">
-            <img src="https://raw.githubusercontent.com/yagopajarino/mag-Bingo/f523216eeb6df4a244e4879771fc7c0427468ea6/mailing/svg/Recurso%206.svg" height="50px">
-            <img src="https://raw.githubusercontent.com/yagopajarino/mag-Bingo/f523216eeb6df4a244e4879771fc7c0427468ea6/mailing/svg/Recurso%207.svg" height="50px">
+            <table>
+                <tr>
+                    <td>
+                        <img src="https://raw.githubusercontent.com/yagopajarino/mag-Bingo/f523216eeb6df4a244e4879771fc7c0427468ea6/mailing/svg/Recurso%206.svg" height="50px">
+                    </td>
+                    <td>
+                        <img src="https://raw.githubusercontent.com/yagopajarino/mag-Bingo/f523216eeb6df4a244e4879771fc7c0427468ea6/mailing/svg/Recurso%207.svg" height="50px">
+                    </td>
+                </tr>
+            </table>
         </div>
         <div class="main-cont">
             <h2>Hola!</h2>
@@ -70,10 +78,13 @@
             <p>Podés comprar tus cartones respondiendo este mail o poniéndote en contacto con los links de abajo &#128071;</p>
         </div>
         <div class="footer">
-            <a href="https://www.facebook.com/movimientodeapostoladoguadalupe" target="_blank"><img src="https://raw.githubusercontent.com/yagopajarino/mag-Bingo/f523216eeb6df4a244e4879771fc7c0427468ea6/mailing/svg/FB.svg" height="40px"></a>
-            <a href="https://wa.me/5491133968212?text=Hola%2C%20quiero%20cartones%20para%20el%20bingo!" target="_blank"><img src="https://raw.githubusercontent.com/yagopajarino/mag-Bingo/f523216eeb6df4a244e4879771fc7c0427468ea6/mailing/svg/WPP.svg" height="40px"></a>
-            <a href="https://www.instagram.com/mag_guada/" target="_blank"><img src="https://raw.githubusercontent.com/yagopajarino/mag-Bingo/f523216eeb6df4a244e4879771fc7c0427468ea6/mailing/svg/IG.svg" height="40px"></a>
+            <table>
+                <tr>
+                    <td><a href="https://www.facebook.com/movimientodeapostoladoguadalupe" target="_blank"><img src="https://raw.githubusercontent.com/yagopajarino/mag-Bingo/f523216eeb6df4a244e4879771fc7c0427468ea6/mailing/svg/FB.svg" height="40px"></a></td>
+                    <td><a href="https://wa.me/5491133968212?text=Hola%2C%20quiero%20cartones%20para%20el%20bingo!" target="_blank"><img src="https://raw.githubusercontent.com/yagopajarino/mag-Bingo/f523216eeb6df4a244e4879771fc7c0427468ea6/mailing/svg/WPP.svg" height="40px"></a></td>
+                    <td><a href="https://www.instagram.com/mag_guada/" target="_blank"><img src="https://raw.githubusercontent.com/yagopajarino/mag-Bingo/f523216eeb6df4a244e4879771fc7c0427468ea6/mailing/svg/IG.svg" height="40px"></a></td>
+                </tr>
+            </table>
         </div>
     </body>
-    <script href="./script.js" type="text/javascript"></script>
 </html>
