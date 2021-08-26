@@ -1,6 +1,4 @@
 /.venv
 .DS_Store
 /musical/cartones
-mailing/send_mail.py
-mailing/contacts.csv
-mailing/environ.txt
+/mailing
