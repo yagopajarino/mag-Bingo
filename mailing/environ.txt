@@ -1,2 +1,0 @@
-export user=movimientoapostoladoguadalupe@gmail.com
-export pwd=colegioguadalupe
