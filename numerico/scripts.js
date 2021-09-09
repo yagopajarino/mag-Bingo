@@ -1,4 +1,5 @@
 let celdas = document.querySelectorAll(".nosel");
+let number = document.getElementById("last_number");
 celdas.forEach(function(element) {
     element.addEventListener("click", function () {
         let c = element.className;
@@ -7,6 +8,7 @@ celdas.forEach(function(element) {
         }
         else {
             element.className = "sel";
+            number.innerHTML = element.innerHTML;
         }
     });
 });
