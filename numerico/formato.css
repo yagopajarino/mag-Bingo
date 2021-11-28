@@ -21,3 +21,12 @@ td {
     background-color: rgb(255, 214, 214);
     font-weight: 100;
 }
+
+h2 {
+    font-weight: 100;
+    margin: 10px 0 10px 2px;
+}
+
+#last_number {
+    font-weight: 900;
+}

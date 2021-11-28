@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-weight: 900;
+}
+
+p {
+    font-weight: 400;
+    margin: 0;
+    padding: 16px 0 10px 0;
+    border-bottom: 1px solid black;
+    width: 530px;
+}
+
+select {
+    margin-top: 40px;
+}
+
+#salidos {
+    margin-left: 10px;
+}
