@@ -1,7 +1,7 @@
 Obtener JSON de tracks a traves de la consola web de Spotify
 
 1. Ingresar a: https://developer.spotify.com/console/get-playlist-tracks/
-2. playlist_id = 6kSIoB0kOUq5QQS3acx4ud
+2. playlist_id = 4jSsyCe6DEXHiAwTFRflgJ
 3. makert = ES
 4. fields = items(track(name,album(artists)))
 5. Usar boton get token sin scopes

@@ -6,17 +6,17 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+                "spotify": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
               },
-              "href": "https://api.spotify.com/v1/artists/0K59Fm1y7s3j498ueS4qzY",
-              "id": "0K59Fm1y7s3j498ueS4qzY",
-              "name": "Soledad",
+              "href": "https://api.spotify.com/v1/artists/1e8GEl48ktvfDpruMKB6Oe",
+              "id": "1e8GEl48ktvfDpruMKB6Oe",
+              "name": "Las Ketchup",
               "type": "artist",
-              "uri": "spotify:artist:0K59Fm1y7s3j498ueS4qzY"
+              "uri": "spotify:artist:1e8GEl48ktvfDpruMKB6Oe"
             }
           ]
         },
-        "name": "Tren Del Cielo"
+        "name": "The Ketchup Song (Aserejé) - Spanglish Version"
       }
     },
     {
@@ -25,17 +25,17 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+                "spotify": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
               },
-              "href": "https://api.spotify.com/v1/artists/0UWZUmn7sybxMCqrw9tGa7",
-              "id": "0UWZUmn7sybxMCqrw9tGa7",
-              "name": "Juanes",
+              "href": "https://api.spotify.com/v1/artists/7slfeZO9LsJbWgpkIoXBUJ",
+              "id": "7slfeZO9LsJbWgpkIoXBUJ",
+              "name": "Ricky Martin",
               "type": "artist",
-              "uri": "spotify:artist:0UWZUmn7sybxMCqrw9tGa7"
+              "uri": "spotify:artist:7slfeZO9LsJbWgpkIoXBUJ"
             }
           ]
         },
-        "name": "La Camisa Negra"
+        "name": "Livin' la Vida Loca"
       }
     },
     {
@@ -44,17 +44,17 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
               },
-              "href": "https://api.spotify.com/v1/artists/2QWIScpFDNxmS6ZEMIUvgm",
-              "id": "2QWIScpFDNxmS6ZEMIUvgm",
-              "name": "Julieta Venegas",
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
               "type": "artist",
-              "uri": "spotify:artist:2QWIScpFDNxmS6ZEMIUvgm"
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
             }
           ]
         },
-        "name": "Limón y Sal"
+        "name": "Dancing Queen"
       }
     },
     {
@@ -63,17 +63,17 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+                "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
               },
-              "href": "https://api.spotify.com/v1/artists/4uoz4FUMvpeyGClFTTDBsD",
-              "id": "4uoz4FUMvpeyGClFTTDBsD",
-              "name": "Ricardo Montaner",
+              "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+              "id": "1mcTU81TzQhprhouKaTkpq",
+              "name": "Rauw Alejandro",
               "type": "artist",
-              "uri": "spotify:artist:4uoz4FUMvpeyGClFTTDBsD"
+              "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
             }
           ]
         },
-        "name": "Tan enamorados"
+        "name": "Todo De Ti"
       }
     },
     {
@@ -82,112 +82,17 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+                "spotify": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
               },
-              "href": "https://api.spotify.com/v1/artists/37MCoi4pcUf9EKsPXeuCqU",
-              "id": "37MCoi4pcUf9EKsPXeuCqU",
-              "name": "Tan Bionica",
+              "href": "https://api.spotify.com/v1/artists/6UYYp6Xo2NHP7AxNnR0rn4",
+              "id": "6UYYp6Xo2NHP7AxNnR0rn4",
+              "name": "Jóvenes Pordioseros",
               "type": "artist",
-              "uri": "spotify:artist:37MCoi4pcUf9EKsPXeuCqU"
+              "uri": "spotify:artist:6UYYp6Xo2NHP7AxNnR0rn4"
             }
           ]
         },
-        "name": "Ciudad Mágica"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-              },
-              "href": "https://api.spotify.com/v1/artists/1wKDGglKV4FsFS85r2Dmpr",
-              "id": "1wKDGglKV4FsFS85r2Dmpr",
-              "name": "Airbag",
-              "type": "artist",
-              "uri": "spotify:artist:1wKDGglKV4FsFS85r2Dmpr"
-            }
-          ]
-        },
-        "name": "Por Mil Noches"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-              },
-              "href": "https://api.spotify.com/v1/artists/1wKDGglKV4FsFS85r2Dmpr",
-              "id": "1wKDGglKV4FsFS85r2Dmpr",
-              "name": "Airbag",
-              "type": "artist",
-              "uri": "spotify:artist:1wKDGglKV4FsFS85r2Dmpr"
-            }
-          ]
-        },
-        "name": "Amor de verano"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-              },
-              "href": "https://api.spotify.com/v1/artists/2nszmSgqreHSdJA3zWPyrW",
-              "id": "2nszmSgqreHSdJA3zWPyrW",
-              "name": "Luis Miguel",
-              "type": "artist",
-              "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW"
-            }
-          ]
-        },
-        "name": "Ahora Te Puedes Marchar"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-              },
-              "href": "https://api.spotify.com/v1/artists/5sUrlPAHlS9NEirDB8SEbF",
-              "id": "5sUrlPAHlS9NEirDB8SEbF",
-              "name": "Alejandro Sanz",
-              "type": "artist",
-              "uri": "spotify:artist:5sUrlPAHlS9NEirDB8SEbF"
-            }
-          ]
-        },
-        "name": "Corazón partío"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-              },
-              "href": "https://api.spotify.com/v1/artists/1OUDQLymoysITxprkd0Qvj",
-              "id": "1OUDQLymoysITxprkd0Qvj",
-              "name": "Coti",
-              "type": "artist",
-              "uri": "spotify:artist:1OUDQLymoysITxprkd0Qvj"
-            }
-          ]
-        },
-        "name": "Nada Fue Un Error"
+        "name": "Descontrolado"
       }
     },
     {
@@ -215,17 +120,27 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+                "spotify": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
               },
-              "href": "https://api.spotify.com/v1/artists/1mux8L6xg2Cmrc7k0wQczl",
-              "id": "1mux8L6xg2Cmrc7k0wQczl",
-              "name": "Bacilos",
+              "href": "https://api.spotify.com/v1/artists/28gNT5KBp7IjEOQoevXf9N",
+              "id": "28gNT5KBp7IjEOQoevXf9N",
+              "name": "Camilo",
               "type": "artist",
-              "uri": "spotify:artist:1mux8L6xg2Cmrc7k0wQczl"
+              "uri": "spotify:artist:28gNT5KBp7IjEOQoevXf9N"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+              },
+              "href": "https://api.spotify.com/v1/artists/52qzWdNUp6ebjcNsvgZSiC",
+              "id": "52qzWdNUp6ebjcNsvgZSiC",
+              "name": "Evaluna Montaner",
+              "type": "artist",
+              "uri": "spotify:artist:52qzWdNUp6ebjcNsvgZSiC"
             }
           ]
         },
-        "name": "Caraluna"
+        "name": "Índigo"
       }
     },
     {
@@ -234,17 +149,17 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+                "spotify": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
               },
-              "href": "https://api.spotify.com/v1/artists/3XkJyJgJDxnjdQgH0zfT8K",
-              "id": "3XkJyJgJDxnjdQgH0zfT8K",
-              "name": "Los Rodriguez",
+              "href": "https://api.spotify.com/v1/artists/0wTashas0gzU0N4bKe7xxY",
+              "id": "0wTashas0gzU0N4bKe7xxY",
+              "name": "Los Puesteros",
               "type": "artist",
-              "uri": "spotify:artist:3XkJyJgJDxnjdQgH0zfT8K"
+              "uri": "spotify:artist:0wTashas0gzU0N4bKe7xxY"
             }
           ]
         },
-        "name": "Mucho mejor (feat. Coque Malla)"
+        "name": "Oración del Remanso"
       }
     },
     {
@@ -263,1254 +178,7 @@
             }
           ]
         },
-        "name": "Flaca"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-              },
-              "href": "https://api.spotify.com/v1/artists/1mux8L6xg2Cmrc7k0wQczl",
-              "id": "1mux8L6xg2Cmrc7k0wQczl",
-              "name": "Bacilos",
-              "type": "artist",
-              "uri": "spotify:artist:1mux8L6xg2Cmrc7k0wQczl"
-            }
-          ]
-        },
-        "name": "Mi primer millon"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-              },
-              "href": "https://api.spotify.com/v1/artists/3XkJyJgJDxnjdQgH0zfT8K",
-              "id": "3XkJyJgJDxnjdQgH0zfT8K",
-              "name": "Los Rodriguez",
-              "type": "artist",
-              "uri": "spotify:artist:3XkJyJgJDxnjdQgH0zfT8K"
-            }
-          ]
-        },
-        "name": "Para no olvidar"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
-              },
-              "href": "https://api.spotify.com/v1/artists/6OO01j5rLKCyPg4i3FuzIT",
-              "id": "6OO01j5rLKCyPg4i3FuzIT",
-              "name": "Árbol",
-              "type": "artist",
-              "uri": "spotify:artist:6OO01j5rLKCyPg4i3FuzIT"
-            }
-          ]
-        },
-        "name": "El Fantasma"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-              },
-              "href": "https://api.spotify.com/v1/artists/5sUrlPAHlS9NEirDB8SEbF",
-              "id": "5sUrlPAHlS9NEirDB8SEbF",
-              "name": "Alejandro Sanz",
-              "type": "artist",
-              "uri": "spotify:artist:5sUrlPAHlS9NEirDB8SEbF"
-            }
-          ]
-        },
-        "name": "Amiga mía"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-              },
-              "href": "https://api.spotify.com/v1/artists/5sUrlPAHlS9NEirDB8SEbF",
-              "id": "5sUrlPAHlS9NEirDB8SEbF",
-              "name": "Alejandro Sanz",
-              "type": "artist",
-              "uri": "spotify:artist:5sUrlPAHlS9NEirDB8SEbF"
-            }
-          ]
-        },
-        "name": "No es lo mismo"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-              },
-              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
-              "id": "0LyfQWJT6nXafLPZqxe9Of",
-              "name": "Various Artists",
-              "type": "artist",
-              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
-            }
-          ]
-        },
-        "name": "Mil Horas"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-              },
-              "href": "https://api.spotify.com/v1/artists/5R3NywPPOyhLfdvutgg0me",
-              "id": "5R3NywPPOyhLfdvutgg0me",
-              "name": "Los Abuelos De La Nada",
-              "type": "artist",
-              "uri": "spotify:artist:5R3NywPPOyhLfdvutgg0me"
-            }
-          ]
-        },
-        "name": "Mil Horas"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-              },
-              "href": "https://api.spotify.com/v1/artists/2HvyR5FsU37QMqVzIbGwl7",
-              "id": "2HvyR5FsU37QMqVzIbGwl7",
-              "name": "Mercedes Sosa",
-              "type": "artist",
-              "uri": "spotify:artist:2HvyR5FsU37QMqVzIbGwl7"
-            }
-          ]
-        },
-        "name": "Luna Tucumana"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
-              },
-              "href": "https://api.spotify.com/v1/artists/0t8lKcdJV0dEicuocOteOw",
-              "id": "0t8lKcdJV0dEicuocOteOw",
-              "name": "Los Chalchaleros",
-              "type": "artist",
-              "uri": "spotify:artist:0t8lKcdJV0dEicuocOteOw"
-            }
-          ]
-        },
-        "name": "Luna Cautiva"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-              },
-              "href": "https://api.spotify.com/v1/artists/1bZNv4q3OxYq7mmnLha7Tu",
-              "id": "1bZNv4q3OxYq7mmnLha7Tu",
-              "name": "Fito Paez",
-              "type": "artist",
-              "uri": "spotify:artist:1bZNv4q3OxYq7mmnLha7Tu"
-            }
-          ]
-        },
-        "name": "El amor después del amor"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-              },
-              "href": "https://api.spotify.com/v1/artists/2HvyR5FsU37QMqVzIbGwl7",
-              "id": "2HvyR5FsU37QMqVzIbGwl7",
-              "name": "Mercedes Sosa",
-              "type": "artist",
-              "uri": "spotify:artist:2HvyR5FsU37QMqVzIbGwl7"
-            }
-          ]
-        },
-        "name": "Zona de Promesas (with Gustavo Cerati)"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
-              },
-              "href": "https://api.spotify.com/v1/artists/4DuhYdfd2jHMdaqYVYZp04",
-              "id": "4DuhYdfd2jHMdaqYVYZp04",
-              "name": "Mancha De Rolando",
-              "type": "artist",
-              "uri": "spotify:artist:4DuhYdfd2jHMdaqYVYZp04"
-            }
-          ]
-        },
-        "name": "Arde la Ciudad"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-              },
-              "href": "https://api.spotify.com/v1/artists/3HrbmsYpKjWH1lzhad7alj",
-              "id": "3HrbmsYpKjWH1lzhad7alj",
-              "name": "Los Auténticos Decadentes",
-              "type": "artist",
-              "uri": "spotify:artist:3HrbmsYpKjWH1lzhad7alj"
-            }
-          ]
-        },
-        "name": "Loco (Tu Forma De Ser)"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
-              },
-              "href": "https://api.spotify.com/v1/artists/5P57GCRyvU7ln5GwNXU8ku",
-              "id": "5P57GCRyvU7ln5GwNXU8ku",
-              "name": "La Franela",
-              "type": "artist",
-              "uri": "spotify:artist:5P57GCRyvU7ln5GwNXU8ku"
-            }
-          ]
-        },
-        "name": "Hacer un puente"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
-              },
-              "href": "https://api.spotify.com/v1/artists/7x2a9uyqlWbE9LwcoQWDTo",
-              "id": "7x2a9uyqlWbE9LwcoQWDTo",
-              "name": "Almendra",
-              "type": "artist",
-              "uri": "spotify:artist:7x2a9uyqlWbE9LwcoQWDTo"
-            }
-          ]
-        },
-        "name": "Muchacha (Ojos de Papel)"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-              },
-              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
-              "id": "0LyfQWJT6nXafLPZqxe9Of",
-              "name": "Various Artists",
-              "type": "artist",
-              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
-            }
-          ]
-        },
-        "name": "Solo Le Pido a Dios"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-              },
-              "href": "https://api.spotify.com/v1/artists/37MCoi4pcUf9EKsPXeuCqU",
-              "id": "37MCoi4pcUf9EKsPXeuCqU",
-              "name": "Tan Bionica",
-              "type": "artist",
-              "uri": "spotify:artist:37MCoi4pcUf9EKsPXeuCqU"
-            }
-          ]
-        },
-        "name": "Ella"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-              },
-              "href": "https://api.spotify.com/v1/artists/2eEmsgWmUFMbtU7agJpnjY",
-              "id": "2eEmsgWmUFMbtU7agJpnjY",
-              "name": "Miranda!",
-              "type": "artist",
-              "uri": "spotify:artist:2eEmsgWmUFMbtU7agJpnjY"
-            }
-          ]
-        },
-        "name": "Don"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-              },
-              "href": "https://api.spotify.com/v1/artists/2eEmsgWmUFMbtU7agJpnjY",
-              "id": "2eEmsgWmUFMbtU7agJpnjY",
-              "name": "Miranda!",
-              "type": "artist",
-              "uri": "spotify:artist:2eEmsgWmUFMbtU7agJpnjY"
-            }
-          ]
-        },
-        "name": "Perfecta"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-              },
-              "href": "https://api.spotify.com/v1/artists/2eEmsgWmUFMbtU7agJpnjY",
-              "id": "2eEmsgWmUFMbtU7agJpnjY",
-              "name": "Miranda!",
-              "type": "artist",
-              "uri": "spotify:artist:2eEmsgWmUFMbtU7agJpnjY"
-            }
-          ]
-        },
-        "name": "Ya Lo Sabía"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-              },
-              "href": "https://api.spotify.com/v1/artists/1d6dwipPrsFSJVmFTTdFSS",
-              "id": "1d6dwipPrsFSJVmFTTdFSS",
-              "name": "Paulina Rubio",
-              "type": "artist",
-              "uri": "spotify:artist:1d6dwipPrsFSJVmFTTdFSS"
-            }
-          ]
-        },
-        "name": "Ni Una Sola Palabra"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-              },
-              "href": "https://api.spotify.com/v1/artists/2QWIScpFDNxmS6ZEMIUvgm",
-              "id": "2QWIScpFDNxmS6ZEMIUvgm",
-              "name": "Julieta Venegas",
-              "type": "artist",
-              "uri": "spotify:artist:2QWIScpFDNxmS6ZEMIUvgm"
-            }
-          ]
-        },
-        "name": "Me Voy"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-              },
-              "href": "https://api.spotify.com/v1/artists/37MCoi4pcUf9EKsPXeuCqU",
-              "id": "37MCoi4pcUf9EKsPXeuCqU",
-              "name": "Tan Bionica",
-              "type": "artist",
-              "uri": "spotify:artist:37MCoi4pcUf9EKsPXeuCqU"
-            }
-          ]
-        },
-        "name": "Loca"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-              },
-              "href": "https://api.spotify.com/v1/artists/6HTUcOExehqydqa7C3usAa",
-              "id": "6HTUcOExehqydqa7C3usAa",
-              "name": "Abel Pintos",
-              "type": "artist",
-              "uri": "spotify:artist:6HTUcOExehqydqa7C3usAa"
-            }
-          ]
-        },
-        "name": "Oncemil"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-              },
-              "href": "https://api.spotify.com/v1/artists/6HTUcOExehqydqa7C3usAa",
-              "id": "6HTUcOExehqydqa7C3usAa",
-              "name": "Abel Pintos",
-              "type": "artist",
-              "uri": "spotify:artist:6HTUcOExehqydqa7C3usAa"
-            }
-          ]
-        },
-        "name": "Motivos"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-              },
-              "href": "https://api.spotify.com/v1/artists/6HTUcOExehqydqa7C3usAa",
-              "id": "6HTUcOExehqydqa7C3usAa",
-              "name": "Abel Pintos",
-              "type": "artist",
-              "uri": "spotify:artist:6HTUcOExehqydqa7C3usAa"
-            }
-          ]
-        },
-        "name": "No Me Olvides"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-              },
-              "href": "https://api.spotify.com/v1/artists/0h1zs4CTlU9D2QtgPxptUD",
-              "id": "0h1zs4CTlU9D2QtgPxptUD",
-              "name": "Ricardo Arjona",
-              "type": "artist",
-              "uri": "spotify:artist:0h1zs4CTlU9D2QtgPxptUD"
-            }
-          ]
-        },
-        "name": "Fuiste Tú (feat. Gaby Moreno)"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-              },
-              "href": "https://api.spotify.com/v1/artists/0h1zs4CTlU9D2QtgPxptUD",
-              "id": "0h1zs4CTlU9D2QtgPxptUD",
-              "name": "Ricardo Arjona",
-              "type": "artist",
-              "uri": "spotify:artist:0h1zs4CTlU9D2QtgPxptUD"
-            }
-          ]
-        },
-        "name": "Mujeres"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-              },
-              "href": "https://api.spotify.com/v1/artists/5gOJTI4TusSENizxhcG7jB",
-              "id": "5gOJTI4TusSENizxhcG7jB",
-              "name": "David Bisbal",
-              "type": "artist",
-              "uri": "spotify:artist:5gOJTI4TusSENizxhcG7jB"
-            }
-          ]
-        },
-        "name": "Hasta El Final"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-              },
-              "href": "https://api.spotify.com/v1/artists/63xFjf6Ww22O5gHrBP79G9",
-              "id": "63xFjf6Ww22O5gHrBP79G9",
-              "name": "Marcela Morelo",
-              "type": "artist",
-              "uri": "spotify:artist:63xFjf6Ww22O5gHrBP79G9"
-            }
-          ]
-        },
-        "name": "La Fuerza del Engaño"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-              },
-              "href": "https://api.spotify.com/v1/artists/63xFjf6Ww22O5gHrBP79G9",
-              "id": "63xFjf6Ww22O5gHrBP79G9",
-              "name": "Marcela Morelo",
-              "type": "artist",
-              "uri": "spotify:artist:63xFjf6Ww22O5gHrBP79G9"
-            }
-          ]
-        },
-        "name": "Corazón Salvaje"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-              },
-              "href": "https://api.spotify.com/v1/artists/7vXDAI8JwjW531ouMGbfcp",
-              "id": "7vXDAI8JwjW531ouMGbfcp",
-              "name": "TINI",
-              "type": "artist",
-              "uri": "spotify:artist:7vXDAI8JwjW531ouMGbfcp"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-              },
-              "href": "https://api.spotify.com/v1/artists/5dbaLmK5SHLLg8Z4CcTJpX",
-              "id": "5dbaLmK5SHLLg8Z4CcTJpX",
-              "name": "Greeicy",
-              "type": "artist",
-              "uri": "spotify:artist:5dbaLmK5SHLLg8Z4CcTJpX"
-            }
-          ]
-        },
-        "name": "22"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-              },
-              "href": "https://api.spotify.com/v1/artists/07YUOmWljBTXwIseAUd9TW",
-              "id": "07YUOmWljBTXwIseAUd9TW",
-              "name": "Sebastian Yatra",
-              "type": "artist",
-              "uri": "spotify:artist:07YUOmWljBTXwIseAUd9TW"
-            }
-          ]
-        },
-        "name": "Traicionera"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-              },
-              "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
-              "id": "4vhNDa5ycK0ST968ek7kRr",
-              "name": "Carlos Vives",
-              "type": "artist",
-              "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
-            }
-          ]
-        },
-        "name": "Robarte un Beso"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-              },
-              "href": "https://api.spotify.com/v1/artists/07YUOmWljBTXwIseAUd9TW",
-              "id": "07YUOmWljBTXwIseAUd9TW",
-              "name": "Sebastian Yatra",
-              "type": "artist",
-              "uri": "spotify:artist:07YUOmWljBTXwIseAUd9TW"
-            }
-          ]
-        },
-        "name": "Un Año"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-              },
-              "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
-              "id": "0TnOYISbd1XYRBk9myaseg",
-              "name": "Pitbull",
-              "type": "artist",
-              "uri": "spotify:artist:0TnOYISbd1XYRBk9myaseg"
-            }
-          ]
-        },
-        "name": "El Taxi - Radio Mix"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
-              },
-              "href": "https://api.spotify.com/v1/artists/5NS0854TqZQVoRmJKSWtFZ",
-              "id": "5NS0854TqZQVoRmJKSWtFZ",
-              "name": "Chino & Nacho",
-              "type": "artist",
-              "uri": "spotify:artist:5NS0854TqZQVoRmJKSWtFZ"
-            }
-          ]
-        },
-        "name": "Niña Bonita"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-              },
-              "href": "https://api.spotify.com/v1/artists/0yNSzH5nZmHzeE2xn6Xshb",
-              "id": "0yNSzH5nZmHzeE2xn6Xshb",
-              "name": "Calle 13",
-              "type": "artist",
-              "uri": "spotify:artist:0yNSzH5nZmHzeE2xn6Xshb"
-            }
-          ]
-        },
-        "name": "Muerte En Hawaii"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
-              },
-              "href": "https://api.spotify.com/v1/artists/5NS0854TqZQVoRmJKSWtFZ",
-              "id": "5NS0854TqZQVoRmJKSWtFZ",
-              "name": "Chino & Nacho",
-              "type": "artist",
-              "uri": "spotify:artist:5NS0854TqZQVoRmJKSWtFZ"
-            }
-          ]
-        },
-        "name": "El Poeta"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-              },
-              "href": "https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m",
-              "id": "4VMYDCV2IEDYJArk749S6m",
-              "name": "Daddy Yankee",
-              "type": "artist",
-              "uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m"
-            }
-          ]
-        },
-        "name": "Limbo"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-              },
-              "href": "https://api.spotify.com/v1/artists/7vXDAI8JwjW531ouMGbfcp",
-              "id": "7vXDAI8JwjW531ouMGbfcp",
-              "name": "TINI",
-              "type": "artist",
-              "uri": "spotify:artist:7vXDAI8JwjW531ouMGbfcp"
-            }
-          ]
-        },
-        "name": "Suéltate El Pelo"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-              },
-              "href": "https://api.spotify.com/v1/artists/7vXDAI8JwjW531ouMGbfcp",
-              "id": "7vXDAI8JwjW531ouMGbfcp",
-              "name": "TINI",
-              "type": "artist",
-              "uri": "spotify:artist:7vXDAI8JwjW531ouMGbfcp"
-            }
-          ]
-        },
-        "name": "Consejo de Amor"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-              },
-              "href": "https://api.spotify.com/v1/artists/5C4PDR4LnhZTbVnKWXuDKD",
-              "id": "5C4PDR4LnhZTbVnKWXuDKD",
-              "name": "Morat",
-              "type": "artist",
-              "uri": "spotify:artist:5C4PDR4LnhZTbVnKWXuDKD"
-            }
-          ]
-        },
-        "name": "Besos En Guerra"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-              },
-              "href": "https://api.spotify.com/v1/artists/5gOJTI4TusSENizxhcG7jB",
-              "id": "5gOJTI4TusSENizxhcG7jB",
-              "name": "David Bisbal",
-              "type": "artist",
-              "uri": "spotify:artist:5gOJTI4TusSENizxhcG7jB"
-            }
-          ]
-        },
-        "name": "Mi Princesa"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-              },
-              "href": "https://api.spotify.com/v1/artists/4V8Sr092TqfHkfAA5fXXqG",
-              "id": "4V8Sr092TqfHkfAA5fXXqG",
-              "name": "Luis Fonsi",
-              "type": "artist",
-              "uri": "spotify:artist:4V8Sr092TqfHkfAA5fXXqG"
-            }
-          ]
-        },
-        "name": "No Me Doy Por Vencido"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
-              },
-              "href": "https://api.spotify.com/v1/artists/32x1uogH2zajP85pzZAtuE",
-              "id": "32x1uogH2zajP85pzZAtuE",
-              "name": "Axel",
-              "type": "artist",
-              "uri": "spotify:artist:32x1uogH2zajP85pzZAtuE"
-            }
-          ]
-        },
-        "name": "Te Voy A Amar"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-              },
-              "href": "https://api.spotify.com/v1/artists/1mX1TWKpNxDSAH16LgDfiR",
-              "id": "1mX1TWKpNxDSAH16LgDfiR",
-              "name": "Jesse & Joy",
-              "type": "artist",
-              "uri": "spotify:artist:1mX1TWKpNxDSAH16LgDfiR"
-            }
-          ]
-        },
-        "name": "¡Corre!"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-              },
-              "href": "https://api.spotify.com/v1/artists/7okwEbXzyT2VffBmyQBWLz",
-              "id": "7okwEbXzyT2VffBmyQBWLz",
-              "name": "Maná",
-              "type": "artist",
-              "uri": "spotify:artist:7okwEbXzyT2VffBmyQBWLz"
-            }
-          ]
-        },
-        "name": "Bendita Tu Luz"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-              },
-              "href": "https://api.spotify.com/v1/artists/5M9Bb4adKAgrOFOhc05Y50",
-              "id": "5M9Bb4adKAgrOFOhc05Y50",
-              "name": "Pablo Alborán",
-              "type": "artist",
-              "uri": "spotify:artist:5M9Bb4adKAgrOFOhc05Y50"
-            }
-          ]
-        },
-        "name": "Dónde está el amor (feat. Jesse & Joy)"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-              },
-              "href": "https://api.spotify.com/v1/artists/22P1OY4TRFRwhP0q29loQ8",
-              "id": "22P1OY4TRFRwhP0q29loQ8",
-              "name": "Lali",
-              "type": "artist",
-              "uri": "spotify:artist:22P1OY4TRFRwhP0q29loQ8"
-            }
-          ]
-        },
-        "name": "Sin Querer Queriendo (feat. Mau y Ricky)"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-              },
-              "href": "https://api.spotify.com/v1/artists/5xd2Tg7Zo8755eCy8Gxkp8",
-              "id": "5xd2Tg7Zo8755eCy8Gxkp8",
-              "name": "Ha*Ash",
-              "type": "artist",
-              "uri": "spotify:artist:5xd2Tg7Zo8755eCy8Gxkp8"
-            }
-          ]
-        },
-        "name": "Perdón, Perdón - HA-ASH Primera Fila - Hecho Realidad [En Vivo]"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-              },
-              "href": "https://api.spotify.com/v1/artists/2O3v9rCTzLhPFaGaAVgZLt",
-              "id": "2O3v9rCTzLhPFaGaAVgZLt",
-              "name": "Río Roma",
-              "type": "artist",
-              "uri": "spotify:artist:2O3v9rCTzLhPFaGaAVgZLt"
-            }
-          ]
-        },
-        "name": "Mi Persona Favorita"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
-              },
-              "href": "https://api.spotify.com/v1/artists/7FZj349hdLfD6qzXkJLuAh",
-              "id": "7FZj349hdLfD6qzXkJLuAh",
-              "name": "La Quinta Estacion",
-              "type": "artist",
-              "uri": "spotify:artist:7FZj349hdLfD6qzXkJLuAh"
-            }
-          ]
-        },
-        "name": "El Sol No Regresa"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-              },
-              "href": "https://api.spotify.com/v1/artists/6HTUcOExehqydqa7C3usAa",
-              "id": "6HTUcOExehqydqa7C3usAa",
-              "name": "Abel Pintos",
-              "type": "artist",
-              "uri": "spotify:artist:6HTUcOExehqydqa7C3usAa"
-            }
-          ]
-        },
-        "name": "Sin Principio Ni Final"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-              },
-              "href": "https://api.spotify.com/v1/artists/6HTUcOExehqydqa7C3usAa",
-              "id": "6HTUcOExehqydqa7C3usAa",
-              "name": "Abel Pintos",
-              "type": "artist",
-              "uri": "spotify:artist:6HTUcOExehqydqa7C3usAa"
-            }
-          ]
-        },
-        "name": "La Llave"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-              },
-              "href": "https://api.spotify.com/v1/artists/2AZOALDIBORfbzKTuliwdJ",
-              "id": "2AZOALDIBORfbzKTuliwdJ",
-              "name": "Cristian Castro",
-              "type": "artist",
-              "uri": "spotify:artist:2AZOALDIBORfbzKTuliwdJ"
-            }
-          ]
-        },
-        "name": "Lloviendo Estrellas"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-              },
-              "href": "https://api.spotify.com/v1/artists/2nszmSgqreHSdJA3zWPyrW",
-              "id": "2nszmSgqreHSdJA3zWPyrW",
-              "name": "Luis Miguel",
-              "type": "artist",
-              "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW"
-            }
-          ]
-        },
-        "name": "La Incondicional"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-              },
-              "href": "https://api.spotify.com/v1/artists/1db5TWniHR7iqwXer7AiQ2",
-              "id": "1db5TWniHR7iqwXer7AiQ2",
-              "name": "Pappo",
-              "type": "artist",
-              "uri": "spotify:artist:1db5TWniHR7iqwXer7AiQ2"
-            }
-          ]
-        },
-        "name": "Juntos a la Par"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-              },
-              "href": "https://api.spotify.com/v1/artists/0iutktJLkNNtErs8c3EoF6",
-              "id": "0iutktJLkNNtErs8c3EoF6",
-              "name": "Los Tekis",
-              "type": "artist",
-              "uri": "spotify:artist:0iutktJLkNNtErs8c3EoF6"
-            }
-          ]
-        },
-        "name": "Vienes y Te Vas"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-              },
-              "href": "https://api.spotify.com/v1/artists/0K59Fm1y7s3j498ueS4qzY",
-              "id": "0K59Fm1y7s3j498ueS4qzY",
-              "name": "Soledad",
-              "type": "artist",
-              "uri": "spotify:artist:0K59Fm1y7s3j498ueS4qzY"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-              },
-              "href": "https://api.spotify.com/v1/artists/1GlOpg3dPUft550esb82K3",
-              "id": "1GlOpg3dPUft550esb82K3",
-              "name": "Chaqueño Palavecino",
-              "type": "artist",
-              "uri": "spotify:artist:1GlOpg3dPUft550esb82K3"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-              },
-              "href": "https://api.spotify.com/v1/artists/2ydE5oBt6cwsDxH1TpIFmO",
-              "id": "2ydE5oBt6cwsDxH1TpIFmO",
-              "name": "Los Nocheros",
-              "type": "artist",
-              "uri": "spotify:artist:2ydE5oBt6cwsDxH1TpIFmO"
-            }
-          ]
-        },
-        "name": "El Humahuaqueño (En Vivo)"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-              },
-              "href": "https://api.spotify.com/v1/artists/0K59Fm1y7s3j498ueS4qzY",
-              "id": "0K59Fm1y7s3j498ueS4qzY",
-              "name": "Soledad",
-              "type": "artist",
-              "uri": "spotify:artist:0K59Fm1y7s3j498ueS4qzY"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-              },
-              "href": "https://api.spotify.com/v1/artists/1GlOpg3dPUft550esb82K3",
-              "id": "1GlOpg3dPUft550esb82K3",
-              "name": "Chaqueño Palavecino",
-              "type": "artist",
-              "uri": "spotify:artist:1GlOpg3dPUft550esb82K3"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-              },
-              "href": "https://api.spotify.com/v1/artists/2ydE5oBt6cwsDxH1TpIFmO",
-              "id": "2ydE5oBt6cwsDxH1TpIFmO",
-              "name": "Los Nocheros",
-              "type": "artist",
-              "uri": "spotify:artist:2ydE5oBt6cwsDxH1TpIFmO"
-            }
-          ]
-        },
-        "name": "Que Nadie Sepa Mi Sufrir (En Vivo)"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-              },
-              "href": "https://api.spotify.com/v1/artists/0iutktJLkNNtErs8c3EoF6",
-              "id": "0iutktJLkNNtErs8c3EoF6",
-              "name": "Los Tekis",
-              "type": "artist",
-              "uri": "spotify:artist:0iutktJLkNNtErs8c3EoF6"
-            }
-          ]
-        },
-        "name": "Viva Jujuy"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-              },
-              "href": "https://api.spotify.com/v1/artists/0K59Fm1y7s3j498ueS4qzY",
-              "id": "0K59Fm1y7s3j498ueS4qzY",
-              "name": "Soledad",
-              "type": "artist",
-              "uri": "spotify:artist:0K59Fm1y7s3j498ueS4qzY"
-            }
-          ]
-        },
-        "name": "Kilometro 11"
+        "name": "Corazón en venta"
       }
     },
     {
@@ -1529,7 +197,121 @@
             }
           ]
         },
-        "name": "Humanos a Marte"
+        "name": "Torero"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+              },
+              "href": "https://api.spotify.com/v1/artists/3HrbmsYpKjWH1lzhad7alj",
+              "id": "3HrbmsYpKjWH1lzhad7alj",
+              "name": "Los Auténticos Decadentes",
+              "type": "artist",
+              "uri": "spotify:artist:3HrbmsYpKjWH1lzhad7alj"
+            }
+          ]
+        },
+        "name": "Los Piratas"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+              },
+              "href": "https://api.spotify.com/v1/artists/0SnyKkoyBaB2fG8IJH4xmU",
+              "id": "0SnyKkoyBaB2fG8IJH4xmU",
+              "name": "Los Piojos",
+              "type": "artist",
+              "uri": "spotify:artist:0SnyKkoyBaB2fG8IJH4xmU"
+            }
+          ]
+        },
+        "name": "Como Alí"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+              },
+              "href": "https://api.spotify.com/v1/artists/1GlOpg3dPUft550esb82K3",
+              "id": "1GlOpg3dPUft550esb82K3",
+              "name": "Chaqueño Palavecino",
+              "type": "artist",
+              "uri": "spotify:artist:1GlOpg3dPUft550esb82K3"
+            }
+          ]
+        },
+        "name": "Amor Salvaje"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+              },
+              "href": "https://api.spotify.com/v1/artists/2Htm0q72SjGSmsy8EOIhRG",
+              "id": "2Htm0q72SjGSmsy8EOIhRG",
+              "name": "Los Palmeras",
+              "type": "artist",
+              "uri": "spotify:artist:2Htm0q72SjGSmsy8EOIhRG"
+            }
+          ]
+        },
+        "name": "El Bombón"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
+              },
+              "href": "https://api.spotify.com/v1/artists/32x1uogH2zajP85pzZAtuE",
+              "id": "32x1uogH2zajP85pzZAtuE",
+              "name": "Axel",
+              "type": "artist",
+              "uri": "spotify:artist:32x1uogH2zajP85pzZAtuE"
+            }
+          ]
+        },
+        "name": "Somos Uno (feat. Abel Pintos)"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+              "id": "0LALueHEQunQ2d61fXGeZh",
+              "name": "Diego Torres",
+              "type": "artist",
+              "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
+            }
+          ]
+        },
+        "name": "Color Esperanza"
       }
     },
     {
@@ -1557,17 +339,302 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+                "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
               },
-              "href": "https://api.spotify.com/v1/artists/235Vf4hkmwvxjVEMuCbRxm",
-              "id": "235Vf4hkmwvxjVEMuCbRxm",
-              "name": "Rodrigo",
+              "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+              "id": "0LALueHEQunQ2d61fXGeZh",
+              "name": "Diego Torres",
               "type": "artist",
-              "uri": "spotify:artist:235Vf4hkmwvxjVEMuCbRxm"
+              "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
             }
           ]
         },
-        "name": "Ocho Cuarenta"
+        "name": "Abriendo Caminos"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+              },
+              "href": "https://api.spotify.com/v1/artists/1JbemQ1fPt2YmSLjAFhPBv",
+              "id": "1JbemQ1fPt2YmSLjAFhPBv",
+              "name": "Chayanne",
+              "type": "artist",
+              "uri": "spotify:artist:1JbemQ1fPt2YmSLjAFhPBv"
+            }
+          ]
+        },
+        "name": "Humanos a Marte"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+              },
+              "href": "https://api.spotify.com/v1/artists/05Q9xndTxhXhD5trpmTtfU",
+              "id": "05Q9xndTxhXhD5trpmTtfU",
+              "name": "Carlos Gardel",
+              "type": "artist",
+              "uri": "spotify:artist:05Q9xndTxhXhD5trpmTtfU"
+            }
+          ]
+        },
+        "name": "Cambalache"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+              },
+              "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+              "id": "3WrFJ7ztbogyGnTHbHJFl2",
+              "name": "The Beatles",
+              "type": "artist",
+              "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+            }
+          ]
+        },
+        "name": "Help!"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+              },
+              "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+              "id": "1dfeR4HaWDbWqFHLkxsg1d",
+              "name": "Queen",
+              "type": "artist",
+              "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+            }
+          ]
+        },
+        "name": "Bohemian Rhapsody"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+              },
+              "href": "https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe",
+              "id": "22bE4uQ6baNwSHPVcDxLCe",
+              "name": "The Rolling Stones",
+              "type": "artist",
+              "uri": "spotify:artist:22bE4uQ6baNwSHPVcDxLCe"
+            }
+          ]
+        },
+        "name": "Start Me Up - Remastered 2009"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1TiGxAkU8w0xBCVFOP6Ttl"
+              },
+              "href": "https://api.spotify.com/v1/artists/1TiGxAkU8w0xBCVFOP6Ttl",
+              "id": "1TiGxAkU8w0xBCVFOP6Ttl",
+              "name": "Duo Dinamico",
+              "type": "artist",
+              "uri": "spotify:artist:1TiGxAkU8w0xBCVFOP6Ttl"
+            }
+          ]
+        },
+        "name": "Resistiré"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+              },
+              "href": "https://api.spotify.com/v1/artists/5R3NywPPOyhLfdvutgg0me",
+              "id": "5R3NywPPOyhLfdvutgg0me",
+              "name": "Los Abuelos De La Nada",
+              "type": "artist",
+              "uri": "spotify:artist:5R3NywPPOyhLfdvutgg0me"
+            }
+          ]
+        },
+        "name": "Costumbres Argentinas"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2xbIkKN0Yzb14N9WTZWtD2"
+              },
+              "href": "https://api.spotify.com/v1/artists/2xbIkKN0Yzb14N9WTZWtD2",
+              "id": "2xbIkKN0Yzb14N9WTZWtD2",
+              "name": "Las Primas",
+              "type": "artist",
+              "uri": "spotify:artist:2xbIkKN0Yzb14N9WTZWtD2"
+            }
+          ]
+        },
+        "name": "Saca La Mano Antonio"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
+              },
+              "href": "https://api.spotify.com/v1/artists/5SqghR4PmacEuzlpIOQI2k",
+              "id": "5SqghR4PmacEuzlpIOQI2k",
+              "name": "Bandana",
+              "type": "artist",
+              "uri": "spotify:artist:5SqghR4PmacEuzlpIOQI2k"
+            }
+          ]
+        },
+        "name": "Maldita Noche"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0qAthAwwFa3RW6BRRsP4cQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/0qAthAwwFa3RW6BRRsP4cQ",
+              "id": "0qAthAwwFa3RW6BRRsP4cQ",
+              "name": "Chiquititas",
+              "type": "artist",
+              "uri": "spotify:artist:0qAthAwwFa3RW6BRRsP4cQ"
+            }
+          ]
+        },
+        "name": "Corazón Con Agujeritos"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+              },
+              "href": "https://api.spotify.com/v1/artists/2nszmSgqreHSdJA3zWPyrW",
+              "id": "2nszmSgqreHSdJA3zWPyrW",
+              "name": "Luis Miguel",
+              "type": "artist",
+              "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW"
+            }
+          ]
+        },
+        "name": "Ahora Te Puedes Marchar"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+              },
+              "href": "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+              "id": "3dRfiJ2650SZu6GbydcHNb",
+              "name": "John Williams",
+              "type": "artist",
+              "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+            }
+          ]
+        },
+        "name": "The Imperial March (Darth Vader's Theme)"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2PvWETZrLnq0aq48K1lmqC"
+              },
+              "href": "https://api.spotify.com/v1/artists/2PvWETZrLnq0aq48K1lmqC",
+              "id": "2PvWETZrLnq0aq48K1lmqC",
+              "name": "The Session",
+              "type": "artist",
+              "uri": "spotify:artist:2PvWETZrLnq0aq48K1lmqC"
+            }
+          ]
+        },
+        "name": "Harry Potter"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+              },
+              "href": "https://api.spotify.com/v1/artists/60nua3AsVSfADZtg5Hdz3W",
+              "id": "60nua3AsVSfADZtg5Hdz3W",
+              "name": "La Mosca Tse-Tse",
+              "type": "artist",
+              "uri": "spotify:artist:60nua3AsVSfADZtg5Hdz3W"
+            }
+          ]
+        },
+        "name": "Para No Verte Más"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+              },
+              "href": "https://api.spotify.com/v1/artists/2weA6hhVqTIN2gSn9PUB9U",
+              "id": "2weA6hhVqTIN2gSn9PUB9U",
+              "name": "Celia Cruz",
+              "type": "artist",
+              "uri": "spotify:artist:2weA6hhVqTIN2gSn9PUB9U"
+            }
+          ]
+        },
+        "name": "La Vida Es Un Carnaval"
       }
     },
     {
@@ -1586,7 +653,7 @@
             }
           ]
         },
-        "name": "Dia de Enero"
+        "name": "Ciega, Sordomuda"
       }
     },
     {
@@ -1595,17 +662,17 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+                "spotify": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
               },
-              "href": "https://api.spotify.com/v1/artists/1wKDGglKV4FsFS85r2Dmpr",
-              "id": "1wKDGglKV4FsFS85r2Dmpr",
-              "name": "Airbag",
+              "href": "https://api.spotify.com/v1/artists/0h1zs4CTlU9D2QtgPxptUD",
+              "id": "0h1zs4CTlU9D2QtgPxptUD",
+              "name": "Ricardo Arjona",
               "type": "artist",
-              "uri": "spotify:artist:1wKDGglKV4FsFS85r2Dmpr"
+              "uri": "spotify:artist:0h1zs4CTlU9D2QtgPxptUD"
             }
           ]
         },
-        "name": "Solo aquí"
+        "name": "Minutos"
       }
     },
     {
@@ -1614,17 +681,17 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2ao7Jx5TiinWuCtz6Lig4g"
+                "spotify": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
               },
-              "href": "https://api.spotify.com/v1/artists/2ao7Jx5TiinWuCtz6Lig4g",
-              "id": "2ao7Jx5TiinWuCtz6Lig4g",
-              "name": "Alcides",
+              "href": "https://api.spotify.com/v1/artists/7okwEbXzyT2VffBmyQBWLz",
+              "id": "7okwEbXzyT2VffBmyQBWLz",
+              "name": "Maná",
               "type": "artist",
-              "uri": "spotify:artist:2ao7Jx5TiinWuCtz6Lig4g"
+              "uri": "spotify:artist:7okwEbXzyT2VffBmyQBWLz"
             }
           ]
         },
-        "name": "Violeta"
+        "name": "Bendita Tu Luz"
       }
     },
     {
@@ -1633,17 +700,17 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+                "spotify": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
               },
-              "href": "https://api.spotify.com/v1/artists/1qyAl8T6GTcaOViaI7fs1j",
-              "id": "1qyAl8T6GTcaOViaI7fs1j",
-              "name": "Son By Four",
+              "href": "https://api.spotify.com/v1/artists/7qG3b048QCHVRO5Pv1T5lw",
+              "id": "7qG3b048QCHVRO5Pv1T5lw",
+              "name": "Enrique Iglesias",
               "type": "artist",
-              "uri": "spotify:artist:1qyAl8T6GTcaOViaI7fs1j"
+              "uri": "spotify:artist:7qG3b048QCHVRO5Pv1T5lw"
             }
           ]
         },
-        "name": "A Puro Dolor - Balada"
+        "name": "SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox)"
       }
     },
     {
@@ -1652,17 +719,17 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+                "spotify": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
               },
-              "href": "https://api.spotify.com/v1/artists/0eecdvMrqBftK0M1VKhaF4",
-              "id": "0eecdvMrqBftK0M1VKhaF4",
-              "name": "CNCO",
+              "href": "https://api.spotify.com/v1/artists/4V8Sr092TqfHkfAA5fXXqG",
+              "id": "4V8Sr092TqfHkfAA5fXXqG",
+              "name": "Luis Fonsi",
               "type": "artist",
-              "uri": "spotify:artist:0eecdvMrqBftK0M1VKhaF4"
+              "uri": "spotify:artist:4V8Sr092TqfHkfAA5fXXqG"
             }
           ]
         },
-        "name": "Reggaetón Lento (Bailemos)"
+        "name": "Échame La Culpa"
       }
     },
     {
@@ -1671,17 +738,17 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+                "spotify": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
               },
-              "href": "https://api.spotify.com/v1/artists/6OWapcJm9xd55ci9CYbAuT",
-              "id": "6OWapcJm9xd55ci9CYbAuT",
-              "name": "Los Lobos",
+              "href": "https://api.spotify.com/v1/artists/1t7t8q4zoYHp22JLIx3FM7",
+              "id": "1t7t8q4zoYHp22JLIx3FM7",
+              "name": "Joan Manuel Serrat",
               "type": "artist",
-              "uri": "spotify:artist:6OWapcJm9xd55ci9CYbAuT"
+              "uri": "spotify:artist:1t7t8q4zoYHp22JLIx3FM7"
             }
           ]
         },
-        "name": "La Bamba"
+        "name": "Esos Locos Bajitos"
       }
     },
     {
@@ -1690,17 +757,17 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+                "spotify": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
               },
-              "href": "https://api.spotify.com/v1/artists/5GNSVtCq2hiXDx7jUA5Iou",
-              "id": "5GNSVtCq2hiXDx7jUA5Iou",
-              "name": "ChiChi Peralta",
+              "href": "https://api.spotify.com/v1/artists/5lODCkFdEtpPn3YxfmyLfT",
+              "id": "5lODCkFdEtpPn3YxfmyLfT",
+              "name": "Armando Manzanero",
               "type": "artist",
-              "uri": "spotify:artist:5GNSVtCq2hiXDx7jUA5Iou"
+              "uri": "spotify:artist:5lODCkFdEtpPn3YxfmyLfT"
             }
           ]
         },
-        "name": "Procura"
+        "name": "Somos Novios"
       }
     },
     {
@@ -1709,17 +776,17 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+                "spotify": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
               },
-              "href": "https://api.spotify.com/v1/artists/6Iv9dXeKX45ff7qe0LDuFW",
-              "id": "6Iv9dXeKX45ff7qe0LDuFW",
-              "name": "Los Caballeros De La Quema",
+              "href": "https://api.spotify.com/v1/artists/1LZEQNv7sE11VDY3SdxQeN",
+              "id": "1LZEQNv7sE11VDY3SdxQeN",
+              "name": "Bee Gees",
               "type": "artist",
-              "uri": "spotify:artist:6Iv9dXeKX45ff7qe0LDuFW"
+              "uri": "spotify:artist:1LZEQNv7sE11VDY3SdxQeN"
             }
           ]
         },
-        "name": "Avanti Morocha"
+        "name": "Stayin Alive"
       }
     },
     {
@@ -1728,17 +795,17 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+                "spotify": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
               },
-              "href": "https://api.spotify.com/v1/artists/2Htm0q72SjGSmsy8EOIhRG",
-              "id": "2Htm0q72SjGSmsy8EOIhRG",
-              "name": "Los Palmeras",
+              "href": "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+              "id": "26dSoYclwsYLMAKD3tpOr4",
+              "name": "Britney Spears",
               "type": "artist",
-              "uri": "spotify:artist:2Htm0q72SjGSmsy8EOIhRG"
+              "uri": "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
             }
           ]
         },
-        "name": "Olvídala"
+        "name": "Oops!...I Did It Again"
       }
     },
     {
@@ -1747,17 +814,550 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+                "spotify": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
               },
-              "href": "https://api.spotify.com/v1/artists/2FS22haX3FYbyOsUAkuYqZ",
-              "id": "2FS22haX3FYbyOsUAkuYqZ",
-              "name": "Los Fabulosos Cadillacs",
+              "href": "https://api.spotify.com/v1/artists/0uq5PttqEjj3IH1bzwcrXF",
+              "id": "0uq5PttqEjj3IH1bzwcrXF",
+              "name": "Spice Girls",
               "type": "artist",
-              "uri": "spotify:artist:2FS22haX3FYbyOsUAkuYqZ"
+              "uri": "spotify:artist:0uq5PttqEjj3IH1bzwcrXF"
             }
           ]
         },
-        "name": "Vasos Vacíos - Remasterizado 2008"
+        "name": "Wannabe"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+              },
+              "href": "https://api.spotify.com/v1/artists/2wkoKEfS6dXwThbyTnZWFU",
+              "id": "2wkoKEfS6dXwThbyTnZWFU",
+              "name": "Mau y Ricky",
+              "type": "artist",
+              "uri": "spotify:artist:2wkoKEfS6dXwThbyTnZWFU"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+              },
+              "href": "https://api.spotify.com/v1/artists/1DxLCyH42yaHKGK3cl5bvG",
+              "id": "1DxLCyH42yaHKGK3cl5bvG",
+              "name": "Maria Becerra",
+              "type": "artist",
+              "uri": "spotify:artist:1DxLCyH42yaHKGK3cl5bvG"
+            }
+          ]
+        },
+        "name": "Mal Acostumbrao"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX"
+              },
+              "href": "https://api.spotify.com/v1/artists/0h0p7RkMjCUMdcf0nXmHjX",
+              "id": "0h0p7RkMjCUMdcf0nXmHjX",
+              "name": "Gianna Nannini",
+              "type": "artist",
+              "uri": "spotify:artist:0h0p7RkMjCUMdcf0nXmHjX"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7AWtkwVftjGXkoCIEvI7fW"
+              },
+              "href": "https://api.spotify.com/v1/artists/7AWtkwVftjGXkoCIEvI7fW",
+              "id": "7AWtkwVftjGXkoCIEvI7fW",
+              "name": "Edoardo Bennato",
+              "type": "artist",
+              "uri": "spotify:artist:7AWtkwVftjGXkoCIEvI7fW"
+            }
+          ]
+        },
+        "name": "Un'Estate Italiana (Notti Magiche) - Stadio Version"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4DOlsUBpxw706SXx05Xoi2"
+              },
+              "href": "https://api.spotify.com/v1/artists/4DOlsUBpxw706SXx05Xoi2",
+              "id": "4DOlsUBpxw706SXx05Xoi2",
+              "name": "Xuxa",
+              "type": "artist",
+              "uri": "spotify:artist:4DOlsUBpxw706SXx05Xoi2"
+            }
+          ]
+        },
+        "name": "Ilariê"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5qVFYytU9NzfhidwcFDsSm"
+              },
+              "href": "https://api.spotify.com/v1/artists/5qVFYytU9NzfhidwcFDsSm",
+              "id": "5qVFYytU9NzfhidwcFDsSm",
+              "name": "Mc Lagrot",
+              "type": "artist",
+              "uri": "spotify:artist:5qVFYytU9NzfhidwcFDsSm"
+            }
+          ]
+        },
+        "name": "Panamericano"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+              },
+              "href": "https://api.spotify.com/v1/artists/6iYRN5eaz8LSxvwkhmwkRj",
+              "id": "6iYRN5eaz8LSxvwkhmwkRj",
+              "name": "j mena",
+              "type": "artist",
+              "uri": "spotify:artist:6iYRN5eaz8LSxvwkhmwkRj"
+            }
+          ]
+        },
+        "name": "La Cobra"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+              },
+              "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+              "id": "4dpARuHxo51G3z768sgnrY",
+              "name": "Adele",
+              "type": "artist",
+              "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+            }
+          ]
+        },
+        "name": "Rolling in the Deep"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+              },
+              "href": "https://api.spotify.com/v1/artists/0yNSzH5nZmHzeE2xn6Xshb",
+              "id": "0yNSzH5nZmHzeE2xn6Xshb",
+              "name": "Calle 13",
+              "type": "artist",
+              "uri": "spotify:artist:0yNSzH5nZmHzeE2xn6Xshb"
+            }
+          ]
+        },
+        "name": "La Vuelta Al Mundo"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+              },
+              "href": "https://api.spotify.com/v1/artists/2NjfBq1NflQcKSeiDooVjY",
+              "id": "2NjfBq1NflQcKSeiDooVjY",
+              "name": "Tones And I",
+              "type": "artist",
+              "uri": "spotify:artist:2NjfBq1NflQcKSeiDooVjY"
+            }
+          ]
+        },
+        "name": "Dance Monkey"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+              },
+              "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+              "id": "0k17h0D3J5VfsdmQ1iZtE9",
+              "name": "Pink Floyd",
+              "type": "artist",
+              "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+            }
+          ]
+        },
+        "name": "Another Brick In The Wall, Pt. 2 - 2011 Remastered Version"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/27cHxXCjuCTDj4VO3Ww3Ah"
+              },
+              "href": "https://api.spotify.com/v1/artists/27cHxXCjuCTDj4VO3Ww3Ah",
+              "id": "27cHxXCjuCTDj4VO3Ww3Ah",
+              "name": "Los Sultanes",
+              "type": "artist",
+              "uri": "spotify:artist:27cHxXCjuCTDj4VO3Ww3Ah"
+            }
+          ]
+        },
+        "name": "Estoy Saliendo Con un Chabon"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5mLvRBeI5T7w08iWtK7FXu"
+              },
+              "href": "https://api.spotify.com/v1/artists/5mLvRBeI5T7w08iWtK7FXu",
+              "id": "5mLvRBeI5T7w08iWtK7FXu",
+              "name": "Los Fatales",
+              "type": "artist",
+              "uri": "spotify:artist:5mLvRBeI5T7w08iWtK7FXu"
+            }
+          ]
+        },
+        "name": "Bicho Bicho"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+              },
+              "href": "https://api.spotify.com/v1/artists/0K59Fm1y7s3j498ueS4qzY",
+              "id": "0K59Fm1y7s3j498ueS4qzY",
+              "name": "Soledad",
+              "type": "artist",
+              "uri": "spotify:artist:0K59Fm1y7s3j498ueS4qzY"
+            }
+          ]
+        },
+        "name": "Tren Del Cielo"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+              },
+              "href": "https://api.spotify.com/v1/artists/1JbemQ1fPt2YmSLjAFhPBv",
+              "id": "1JbemQ1fPt2YmSLjAFhPBv",
+              "name": "Chayanne",
+              "type": "artist",
+              "uri": "spotify:artist:1JbemQ1fPt2YmSLjAFhPBv"
+            }
+          ]
+        },
+        "name": "Madre Tierra (Oye)"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+              },
+              "href": "https://api.spotify.com/v1/artists/2ST5XwWB4uXGKk2NXP8DUI",
+              "id": "2ST5XwWB4uXGKk2NXP8DUI",
+              "name": "Los Cafres",
+              "type": "artist",
+              "uri": "spotify:artist:2ST5XwWB4uXGKk2NXP8DUI"
+            }
+          ]
+        },
+        "name": "Tus Ojos"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+              },
+              "href": "https://api.spotify.com/v1/artists/4U7lXyKdSf1JbM1aXvsodC",
+              "id": "4U7lXyKdSf1JbM1aXvsodC",
+              "name": "La Oreja de Van Gogh",
+              "type": "artist",
+              "uri": "spotify:artist:4U7lXyKdSf1JbM1aXvsodC"
+            }
+          ]
+        },
+        "name": "Rosas"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+              },
+              "href": "https://api.spotify.com/v1/artists/1OUDQLymoysITxprkd0Qvj",
+              "id": "1OUDQLymoysITxprkd0Qvj",
+              "name": "Coti",
+              "type": "artist",
+              "uri": "spotify:artist:1OUDQLymoysITxprkd0Qvj"
+            }
+          ]
+        },
+        "name": "Antes Que Ver El Sol"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+              },
+              "href": "https://api.spotify.com/v1/artists/37MCoi4pcUf9EKsPXeuCqU",
+              "id": "37MCoi4pcUf9EKsPXeuCqU",
+              "name": "Tan Bionica",
+              "type": "artist",
+              "uri": "spotify:artist:37MCoi4pcUf9EKsPXeuCqU"
+            }
+          ]
+        },
+        "name": "Ciudad Mágica"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+              },
+              "href": "https://api.spotify.com/v1/artists/37MCoi4pcUf9EKsPXeuCqU",
+              "id": "37MCoi4pcUf9EKsPXeuCqU",
+              "name": "Tan Bionica",
+              "type": "artist",
+              "uri": "spotify:artist:37MCoi4pcUf9EKsPXeuCqU"
+            }
+          ]
+        },
+        "name": "Ella"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+              },
+              "href": "https://api.spotify.com/v1/artists/2nszmSgqreHSdJA3zWPyrW",
+              "id": "2nszmSgqreHSdJA3zWPyrW",
+              "name": "Luis Miguel",
+              "type": "artist",
+              "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW"
+            }
+          ]
+        },
+        "name": "Cuando Calienta El Sol"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+              },
+              "href": "https://api.spotify.com/v1/artists/1d6dwipPrsFSJVmFTTdFSS",
+              "id": "1d6dwipPrsFSJVmFTTdFSS",
+              "name": "Paulina Rubio",
+              "type": "artist",
+              "uri": "spotify:artist:1d6dwipPrsFSJVmFTTdFSS"
+            }
+          ]
+        },
+        "name": "Ni Una Sola Palabra"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+              },
+              "href": "https://api.spotify.com/v1/artists/1mux8L6xg2Cmrc7k0wQczl",
+              "id": "1mux8L6xg2Cmrc7k0wQczl",
+              "name": "Bacilos",
+              "type": "artist",
+              "uri": "spotify:artist:1mux8L6xg2Cmrc7k0wQczl"
+            }
+          ]
+        },
+        "name": "Caraluna"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+              },
+              "href": "https://api.spotify.com/v1/artists/2nszmSgqreHSdJA3zWPyrW",
+              "id": "2nszmSgqreHSdJA3zWPyrW",
+              "name": "Luis Miguel",
+              "type": "artist",
+              "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW"
+            }
+          ]
+        },
+        "name": "Suave"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LALueHEQunQ2d61fXGeZh",
+              "id": "0LALueHEQunQ2d61fXGeZh",
+              "name": "Diego Torres",
+              "type": "artist",
+              "uri": "spotify:artist:0LALueHEQunQ2d61fXGeZh"
+            }
+          ]
+        },
+        "name": "Sueños"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/2AZOALDIBORfbzKTuliwdJ",
+              "id": "2AZOALDIBORfbzKTuliwdJ",
+              "name": "Cristian Castro",
+              "type": "artist",
+              "uri": "spotify:artist:2AZOALDIBORfbzKTuliwdJ"
+            }
+          ]
+        },
+        "name": "Lloviendo Estrellas"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+              },
+              "href": "https://api.spotify.com/v1/artists/37MCoi4pcUf9EKsPXeuCqU",
+              "id": "37MCoi4pcUf9EKsPXeuCqU",
+              "name": "Tan Bionica",
+              "type": "artist",
+              "uri": "spotify:artist:37MCoi4pcUf9EKsPXeuCqU"
+            }
+          ]
+        },
+        "name": "Obsesionario en la Mayor"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+              },
+              "href": "https://api.spotify.com/v1/artists/2F9pvj94b52wGKs0OqiNi2",
+              "id": "2F9pvj94b52wGKs0OqiNi2",
+              "name": "Babasónicos",
+              "type": "artist",
+              "uri": "spotify:artist:2F9pvj94b52wGKs0OqiNi2"
+            }
+          ]
+        },
+        "name": "Como Eran Las Cosas"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+              },
+              "href": "https://api.spotify.com/v1/artists/3tAICgiSR5PfYY4B8qsoAU",
+              "id": "3tAICgiSR5PfYY4B8qsoAU",
+              "name": "Andrés Calamaro",
+              "type": "artist",
+              "uri": "spotify:artist:3tAICgiSR5PfYY4B8qsoAU"
+            }
+          ]
+        },
+        "name": "Flaca"
       }
     }
   ]

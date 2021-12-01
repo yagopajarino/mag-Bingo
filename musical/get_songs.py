@@ -13,6 +13,6 @@ for x in data["items"]:
     artists.append(artist)
 
 df = pd.DataFrame(artists,columns=["Artista"])
-df["Canción"] = songs
+df["Cancion"] = songs
 
 df.to_excel("songs.xlsx", index=False)
