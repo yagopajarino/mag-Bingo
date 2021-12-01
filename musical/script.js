@@ -1,3 +1,18 @@
+let canciones
+let request = new XMLHttpRequest();
+request.open('GET', "canciones.txt", true);
+request.responseType = 'blob';
+request.onload = function() {
+    var reader = new FileReader();
+    reader.readAsText(request.response);
+    reader.onload =  function(e){
+        canciones = reader.result;
+    };
+};
+request.send()
+
+
+
 let songSelectors = document.querySelectorAll(".songSelector");
 let songsDiv = document.getElementById("salidos")
 let selec = document.querySelector(".canciones")
