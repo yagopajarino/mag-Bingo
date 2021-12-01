@@ -1,6 +1,6 @@
 # mag-Bingo 📝
 
-
+Bingo virtual MAG 2021. Respositorio para crear cartones musicales a partir de una playlist de Spotify. Tableros para stream numérico y musical.
 
 ## Instalación
 
@@ -11,10 +11,13 @@
     pip install -r requirements.txt
     ```
 
+## Manual de uso
+
+Disponible en la <a href="https://github.com/yagopajarino/mag-Bingo/wiki">wiki</a> de este respositorio.
 
 
 ## Contacto
-En caso de dudas, consutas, mejoras 👉 <a href="https://yagopajarino.github.io/repos-contact/?mag-Bingo" target="_blank">Get in touch</a>
+En caso de dudas, consultas, mejoras 👉 <a href="https://yagopajarino.github.io/repos-contact/?mag-Bingo" target="_blank">Get in touch</a>
 
 ## Invitame un cafecito :money_with_wings:
 Este repositorio es de uso libre bajo licencia MIT pero tu donación ayuda a mantenero y mejorarlo.
