@@ -129,7 +129,7 @@ def print_cartones(cantidad):
         </body>
         </html>
         """
-        nombre_carton = "./cartones/musical_{}.pdf".format(str(n_carton).zfill(3))
+        nombre_carton = "./cartones/MUSICAL_{}.pdf".format(str(n_carton).zfill(3))
         pdfkit.from_string(html_code, nombre_carton, options=options)
         n_carton += 1
     return cartones
@@ -149,4 +149,4 @@ def check_duplicados(cartones):
 
 cant = int(input("Nro de cartones: "))
 cartones = print_cartones(cant)
-print(check_duplicados(cartones))
+print("Nros de cartones duplicados: {}".format(check_duplicados(cartones)))
