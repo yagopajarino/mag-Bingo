@@ -1,6 +1,6 @@
 import os
 
-tablero = open("tablero.html", "w")
+tablero = open("numerico/tablero.html", "w")
 
 source = """<html>
         <head>
@@ -12,9 +12,14 @@ source = """<html>
             <table>
 """
 
+totalN = int(input("Cantidad de números: "))
+while totalN % 10 != 0:
+    totalN = int(input("Cantidad de números: "))
+
+
 for y in range(1,11):
     source += "                 <tr>\n"
-    for x in range(0,90,10):
+    for x in range(0,totalN,10):
         source += "                     <td class='nosel'>{}</td>\n".format(str(x+y).zfill(2))
     source += "                 </tr>\n"
 
@@ -26,6 +31,7 @@ source += """
 
 tablero.write(source)
 tablero.close()
+print("Tablero creado")
     
         
         
