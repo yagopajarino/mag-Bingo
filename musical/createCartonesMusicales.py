@@ -4,9 +4,10 @@ import json
 import sys
 import numpy as np
 import pdfkit
+import os
 
 # Lista de tuplas (cancion, artista)
-j = open("tracks.json","r")
+j = open("musical/tracks.json","r")
 data = json.load(j)
 
 tracks = []
@@ -29,7 +30,11 @@ options = {
 
 # Iniciar aca loop de cartones
 
-def print_cartones(cantidad):
+def print_cartones(cantidad, id):
+    try:
+        os.mkdir("musical/cartones")
+    except: 
+        pass
     cartones = {}
     n_carton = 1
     for x in range(cantidad):
@@ -122,14 +127,14 @@ def print_cartones(cantidad):
         html_code += row2
         html_code += row3
 
-        html_code += """    
+        html_code += f"""    
         </table>
-        <p>Accedé a la playlist en <a href="https://open.spotify.com/playlist/4jSsyCe6DEXHiAwTFRflgJ?si=02d15bcb6f754225">Spotify</a></p>
+        <p>Accedé a la playlist en <a href="https://open.spotify.com/playlist/{id}?si=02d15bcb6f754225">Spotify</a></p>
         <p class="footer">Made with ❤️ by <a href="https://github.com/yagopajarino/mag-Bingo">yagopajarino</a></p>
         </body>
         </html>
         """
-        nombre_carton = "./cartones/MUSICAL_{}.pdf".format(str(n_carton).zfill(3))
+        nombre_carton = "./musical/cartones/MUSICAL_{}.pdf".format(str(n_carton).zfill(3))
         pdfkit.from_string(html_code, nombre_carton, options=options)
         n_carton += 1
     return cartones
@@ -148,5 +153,6 @@ def check_duplicados(cartones):
     return repetidos
 
 cant = int(input("Nro de cartones: "))
-cartones = print_cartones(cant)
+id = str(input("Id de la playlist: "))
+cartones = print_cartones(cant, id)
 print("Nros de cartones duplicados: {}".format(check_duplicados(cartones)))
