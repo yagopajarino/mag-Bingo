@@ -2,6 +2,8 @@
 
 Bingo virtual MAG 2021. Respositorio para crear cartones musicales a partir de una playlist de Spotify. Tableros para stream numérico y musical.
 
+[Demo cartón musical](https://codepen.io/yagopajarino/full/NWyZKMv)
+
 ## Manual de uso
 
 Disponible en la <a href="https://github.com/yagopajarino/mag-Bingo/wiki">wiki</a> de este respositorio.
